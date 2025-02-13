@@ -1,6 +1,4 @@
-## This is Maximotus
-
-### ✨ My Project Highlights
+## ✨ Project Highlights
 
 - VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs and VLMs ([VideoINSTA](https://github.com/mayhugotong/VideoINSTA))
 - EmoGroove: Zero-shot music recommendations using LLMs and VLMs based on multimodal diary management ([emogroove](https://github.com/EmoGrooveTeam/emogroove))
